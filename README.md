@@ -4,7 +4,7 @@
 This project, Bookish Sniffle, is an E-commerce Object-Relational Mapping (OEM) application. As E-commerce has gained significant prevalence of OEM platforms and generated trillions of $US, developers should understand the fundamental architecture of e-commerce. This application uses Express.js API and configure it to use Sequelize to interact with a PostgreSQL database. The API Get, Post, Put, and Delete routes are generated and perform CRUD operations with Sequelize methods and tested in Insomnia Core for category, product, and tag as the data for each of these routes is displayed in a formatted JSON. 
 
 ## Usage
-The application consists of many features which include the use bcrypt to encrypt passwords, Sequelize methods, model, and database relationship one-to-one, one-to many, and many-to-many, ESLint to enforce code styling and use of the PostgreSQL database to organize and store the data and provides a convenient way to get the product information promptly. The application can be invoked by using the instructions under Test. 
+The application consists of many features which include the use bcrypt to encrypt passwords, Sequelize methods, model, and database relationship one-to-one, one-to-many, and many-to-many, ESLint to enforce code styling and use of the PostgreSQL database to organize and store the data and provides a convenient way to get the product information promptly. The application can be invoked by using the instructions in the Test secion. 
 
 ## Video Link to the bookish-sniffle: 
 https://drive.google.com/file/d/1PlebO6aQMx2DXnCXSPL2Wg94ab3kk06T/view?usp=sharing
