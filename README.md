@@ -28,7 +28,9 @@ In the terminal, type:
 2. Enter password
 3. npm run seed
 4. node server.js
-The server is listening, open the Insomnia Core to run the routs. 
+   
+The server starts listening, open the Insomnia Core to run the routs.
+
 
 ## Questions
 When the GitHub profile (https://github.com/ksytwu100) is provided, that is added to the section entitled Questions. 
